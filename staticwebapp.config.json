@@ -1,8 +1,8 @@
 {
   "routes": [
     {
-      "route": "./personal-portfolio/01",
-      "redirect": "TESD1100/public/personal-portfolio/01"
+      "route": "/personal-portfolio/01",
+      "redirect": "/personal-portfolio/01"
     }
   ]
 }
