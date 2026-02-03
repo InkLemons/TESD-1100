@@ -1,8 +1,1 @@
-{
-  "routes": [
-    {
-      "route": "/personal-portfolio/01",
-      "redirect": "/personal-portfolio/01"
-    }
-  ]
-}
+{}
