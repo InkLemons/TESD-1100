@@ -7,6 +7,9 @@
 	"type": "commonjs",
 	"main": "index.js",
 	"scripts": {
-		"dev": "vite"
+		"dev": "vite",
+		"build": "vite build",
+		"lint": "eslint .",
+		"preview": "vite preview"
 	}
 }
